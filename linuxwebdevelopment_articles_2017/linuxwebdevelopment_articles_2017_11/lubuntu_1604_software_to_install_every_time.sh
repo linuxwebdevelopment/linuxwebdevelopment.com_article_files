@@ -3,7 +3,9 @@
 #It is released under the GPLv3 license
 #You are free to copy it, modify it, and/or share it
 #Just please give credit to linuxwebdevelopment.com
-#this file is from the article called ... located at ....
+#this file is from the article called 
+#Software To Install Every Time With Lubuntu 16.04 
+#located at https://linuxwebdevelopment.com/software-to-install-every-time-with-lubuntu-16-04/
 
 sudo apt-get install alarm-clock-applet \
 apache2 \
