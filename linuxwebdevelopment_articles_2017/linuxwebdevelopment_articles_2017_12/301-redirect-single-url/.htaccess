@@ -1,0 +1,13 @@
+#this file shows you how to do a sample 301 redirect with an Apache config file
+#This file is for an article located at https://linuxwebdevelopment.com/301-redirect-single-url/
+#you can use this file as a template for 301 redirects that you want to do
+#This is assuming that you own example.com, and want to do two permanent redirects
+
+#The first redirect we will do is to redirect
+#example.com/sample1.html to example.com/sample2.html
+
+#The second redirect we will do is to redirect
+#example.com/sample3.html to example.com/sample4.html
+
+Redirect 301 /sampleurl1.html /sampleurl1.html
+Redirect 301 /sampleurl3.html /sampleurl4.html
