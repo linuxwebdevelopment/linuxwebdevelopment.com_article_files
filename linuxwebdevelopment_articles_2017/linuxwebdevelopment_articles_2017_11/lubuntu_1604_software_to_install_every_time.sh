@@ -32,7 +32,7 @@ keepassx \
 libreoffice \
 lynx \
 mariadb-server \
-mnemosyne \4_software_to_install_every_time.sh
+mnemosyne \
 nodejs \
 npm \
 openvpn \
