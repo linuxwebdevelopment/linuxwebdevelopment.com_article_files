@@ -9,5 +9,5 @@
 #The second redirect we will do is to redirect
 #example.com/sample3.html to example.com/sample4.html
 
-Redirect 301 /sampleurl1.html /sampleurl1.html
+Redirect 301 /sampleurl1.html /sampleurl2.html
 Redirect 301 /sampleurl3.html /sampleurl4.html
