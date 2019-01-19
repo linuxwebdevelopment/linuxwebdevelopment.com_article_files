@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- this code is from an article located at https://linuxwebdevelopment.com/find-gcd-two-integers-php/ -->
 <html lang="en">
   <head>
     <meta charset="utf-8">
