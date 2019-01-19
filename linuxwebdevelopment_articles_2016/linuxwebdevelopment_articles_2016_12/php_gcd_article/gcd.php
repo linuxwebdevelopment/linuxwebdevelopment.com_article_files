@@ -1,4 +1,5 @@
 <?php
+// this code is from an article located at https://linuxwebdevelopment.com/find-gcd-two-integers-php/
 function gcd($x,$y) {
   // if $y > $x, then switch them
   if ($y > $x) {
