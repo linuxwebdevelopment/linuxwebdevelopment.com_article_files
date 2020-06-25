@@ -1,0 +1,48 @@
+#!/bin/bash/
+#This file was created by linuxwebdevelopment.com
+#It is released under the GPLv3 license
+#You are free to copy it, modify it, and/or share it
+#Just please give credit to linuxwebdevelopment.com
+#this file is from the article called 
+#Software To Install Every Time With Lubuntu 20.04
+#located at https://linuxwebdevelopment.com/software-to-install-every-time-with-lubuntu-20-04/
+
+apache2 #web server \
+arandr #you need this software if you want to use multiple #monitors \
+chromium-browser #the open source version of Google Chrome #browser \
+clamav #A 100% open-source anti-virus software. Mainly I use #this to #check for Windows viruses. \
+curl #software which can do all sorts of tests for web development \
+deluge #a great bitorrent software  \
+dillo #a very basic web browser that does not render #javascript. #This should be much much faster browser than more mainstream ones #due to its simplicity \
+elinks #a terminal-based browser \
+espeak #speech synthesizer. A text-to-voice software \
+fbreader #ebook reader \
+fdupes #software for finding duplicate files \
+filezilla #an FTP transfer software \
+freeplane #An excellent mindmapping software \
+gimp #a great alternative to Adobe Photoshop for professional level #graphics making/editing \
+gnome-screenshot #In my opinion, this is the best screenshot #program in Ubuntu \
+gparted #an excellent program that let’s you format drives like USB #drives \
+ipython3 #interactive python3. My preferred terminal program to test #python. This #makes using python3 much easier. \
+keepassx #password manager and password generator \
+lynx #another terminal-based web browser \
+mariadb-server #a mysql fork. This is necessary if you want to #run #WordPress or software needing #mysql \
+mnemosyne #software to help you memorize things \
+nodejs #a great server-side software usypsing Javascript \
+npm #package manager for nodejs \
+openvpn #Software you can use to connect to openvpn servers. \
+php #software necessary for WordPress and is a great server-side programming language \
+pinta #A good graphics editor \
+pluma #a great text editor \
+qemu #a libre virtual machine \
+qemu-kvm #a much faster version of qemu. Called kvm because it is a #kernel virtual machine. \
+shotwell #great program for seeing photos and doing slideshows of #them \
+soundconverter #convert between wav, mp3, ogg and other file #types \
+spyder #an excellent python3 IDE \
+sshfs #software for transferring data to and from VPS. It uses SSH, so it is #much more secure than FTP. \
+stopwatch #a stopwatch program \
+thunderbird #a great email client made by Mozilla \
+vinagre #software to control other computers via VNC \
+virtualbox #another great virtual machine software \
+whois #software to do whois searches on websites \
+wine #software to run Windows software in Linux
