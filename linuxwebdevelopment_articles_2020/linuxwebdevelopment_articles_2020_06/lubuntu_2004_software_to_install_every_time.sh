@@ -7,7 +7,7 @@
 #Software To Install Every Time With Lubuntu 20.04
 #located at https://linuxwebdevelopment.com/software-to-install-every-time-with-lubuntu-20-04/
 
-apache2 #web server \
+sudo apt-get install apache2 #web server \
 arandr #you need this software if you want to use multiple #monitors \
 chromium-browser #the open source version of Google Chrome #browser \
 clamav #A 100% open-source anti-virus software. Mainly I use #this to #check for Windows viruses. \
