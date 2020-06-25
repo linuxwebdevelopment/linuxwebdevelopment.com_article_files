@@ -5,7 +5,8 @@
 #Just please give credit to linuxwebdevelopment.com
 #this file is from the article called 
 #Software To Install Every Time With Lubuntu 20.04
-#located at https://linuxwebdevelopment.com/software-to-install-every-time-with-lubuntu-20-04/
+#located at 
+#https://linuxwebdevelopment.com/software-to-install-every-time-with-lubuntu-20-04/
 
 sudo apt-get install apache2 #web server \
 arandr #you need this software if you want to use multiple #monitors \
