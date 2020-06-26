@@ -1,4 +1,4 @@
-#!/bin/bash/
+#!/bin/bash
 #This file was created by linuxwebdevelopment.com
 #It is released under the GPLv3 license
 #You are free to copy it, modify it, and/or share it
